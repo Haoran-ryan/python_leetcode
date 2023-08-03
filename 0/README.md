@@ -1,4 +1,4 @@
-# Week 1 
+# Week 0
 
 ## Day 1 : 628 Maximum product of three numbers 
 
